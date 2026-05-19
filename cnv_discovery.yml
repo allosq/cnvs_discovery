@@ -1,0 +1,10 @@
+name: cnv_discovery
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12.4
+  - openjdk=17.0.11
+  - gatk4=4.5.0.0
+  - xhmm
